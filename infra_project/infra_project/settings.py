@@ -17,7 +17,6 @@ ALLOWED_HOSTS = [
     '51.250.25.251',
 ]
 
-
 # Application definition
 
 INSTALLED_APPS = [
